@@ -1,0 +1,8 @@
+Sphere1: radius 0.3,  point3 -> 0 , 0 , -1
+Sphere2: radius 0.3,  point3 -> 1 , 0 , -1
+Sphere3: radius 0.3,  point3 -> 0 , 1 , -1
+Sphere4: radius 0.3,  point3 -> -1 , 0 , -1
+Sphere5: radius 0.3,  point3 -> 0 , -1 , -1
+
+image.ppm -> camera on 0,0,0
+image2.ppm -> camera on 1,0,2
